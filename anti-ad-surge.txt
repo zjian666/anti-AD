@@ -15529,10 +15529,6 @@ DOMAIN-SUFFIX,tnc3-aliec2.bytedance.com
 DOMAIN-SUFFIX,tnc3-alisc1.bytedance.com
 DOMAIN-SUFFIX,tnc3-bjlgy.bytedance.com
 DOMAIN-SUFFIX,mssdk-bu.bytedance.com
-DOMAIN-SUFFIX,p3-tt.byteimg.com
-DOMAIN-SUFFIX,p3-ad-sign.byteimg.com
-DOMAIN-SUFFIX,p6-ad-sign.byteimg.com
-DOMAIN-SUFFIX,p9-ad-sign.byteimg.com
 DOMAIN-SUFFIX,explore.bytelab.uk
 DOMAIN-SUFFIX,bytemgdd.com
 DOMAIN-SUFFIX,log.byteoversea.com
