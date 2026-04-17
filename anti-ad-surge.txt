@@ -105987,14 +105987,6 @@ DOMAIN-SUFFIX,log.zijieapi.com
 DOMAIN-SUFFIX,mcs.zijieapi.com
 DOMAIN-SUFFIX,mon.zijieapi.com
 DOMAIN-SUFFIX,mssdk.zijieapi.com
-DOMAIN-SUFFIX,tnc0-aliec2.zijieapi.com
-DOMAIN-SUFFIX,tnc0-alisc1.zijieapi.com
-DOMAIN-SUFFIX,tnc0-bjlgy.zijieapi.com
-DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
-DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
-DOMAIN-SUFFIX,tnc3-alisc2.zijieapi.com
-DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
-DOMAIN-SUFFIX,tnc3-aliec1.zijieapi.com
 DOMAIN-SUFFIX,zijqohihvozks.space
 DOMAIN-SUFFIX,zikgtahaiepkj.space
 DOMAIN-SUFFIX,download.zikirapp.com
