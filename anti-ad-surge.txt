@@ -94209,7 +94209,6 @@ DOMAIN-SUFFIX,utysolomonaut.com
 DOMAIN-SUFFIX,utzacheiye.com
 DOMAIN-SUFFIX,utzimatzbld.com
 DOMAIN-SUFFIX,utzzytfmbfekv.website
-DOMAIN-SUFFIX,app.uu.cc
 DOMAIN-SUFFIX,dl.uu.cc
 DOMAIN-SUFFIX,in1.feed.uu.cc
 DOMAIN-SUFFIX,in1.secure.uu.cc
