@@ -73751,7 +73751,6 @@ DOMAIN-SUFFIX,ugcup.music.qq.com
 DOMAIN-SUFFIX,ipv6.kg.qq.com
 DOMAIN-SUFFIX,log.node.minigame.qq.com
 DOMAIN-SUFFIX,wxaintpcos.wxqcloud.qq.com.cn
-DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,qq167.com
 DOMAIN-SUFFIX,qq2tdd0xx.com
 DOMAIN-SUFFIX,qq4g.cn
